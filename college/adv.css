@@ -1,0 +1,13 @@
+.googleimage{
+    position:absolute;
+    width:200px;
+    height:200px;
+}
+.adv{
+    color:red;
+    position:absolute;
+    top:13%;
+    left:3%;
+     font-family:monospace;
+     font-size:20px;
+}

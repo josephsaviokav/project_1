@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    border:border-box;
+}
+.navbar{
+    height: 40px;
+    width:7000px;
+    background-color: rgb(25, 28, 27);
+    display: flex;
+
+}
+.logo{
+    background-image: url("logo.jpeg");
+    background-size: cover;
+    height:40px;
+    width:50px;
+}
+.search-bar{
+    position: relative;
+    left:150px;
+    top:3px;
+}
+.search{
+    width: 900px;
+    height:30px;
+    border-radius: 4px;
+}
+.user{
+    display: flex;
+
+}

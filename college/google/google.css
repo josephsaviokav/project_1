@@ -1,0 +1,52 @@
+.form {
+    width: 600px;
+     position: absolute;
+      top: 50%;
+       left:55%;
+    transform: translate(-50%, -50%);
+    background-color:white;
+    border-radius:4px;
+}
+.image{
+   text-align:center;
+   position:absolute;
+   top:50%;
+   left:50%;
+   transform:translate(-50%,-130%)
+}
+.images{
+    position: absolute;
+     top: 10px;
+     right: 10px;
+
+        text-decoration: none;
+}
+.advanced{
+   position:absolute;
+   top:10px;
+   right:120px;
+}
+.b{
+   width: 400px;
+     position: absolute;
+      top: 56%;
+       left:56%;
+    transform: translate(-50%, -50%);
+    background-color:white;
+}
+
+.a{
+   width:400px;
+   position:absolute;
+   top:55%;
+   right:23%;
+
+}
+.search-input{
+   width:600px;
+   border-radius: 4px;
+   background-color: white;
+   border-width: 0.5px;
+
+
+}
